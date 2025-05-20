@@ -1,0 +1,2 @@
+En este repositorio se encuentran los codigos utilizados para el desarrollo del proyecto individual de ingenieria mecanica durante el semestre 2025-1 titulado Rediseño de tanques fríos en una lechería en Facatativá – Cundinamarca: Implementación de CO2 (R744) como fluido de trabajo.
+Estos scripts en jupyter notebooks fueron utilizados para la manipulacion de datos y modelaciones de los sistemas de refrigeracion estudiados a lo largo del proyecto.
